@@ -24,7 +24,7 @@ public final class ToyBox {
      * @return A list of popular toys
      */
     public static String[] getToyNames() {
-        return new String[] {
+        return new String[] {              //https://stackoverflow.com/questions/20396182/difference-between-new-string-and-new-string-in-java
                 "Red Toy Wagon",
                 "Chemistry Set",
                 "Yo-Yo",
